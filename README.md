@@ -1,12 +1,12 @@
 Hello World,
 
-My name is Justin (He/Him).
+My name is Justin.
 
 An actuary by training, I had noticed I was most useful streamlining and automating things I was doing often.
 Insight in hand, it was clear my career deserved an adjustment.
 
-I studied web development at www.LaunchSchool.com, a marvelous community where mastery is the focus.
-Currently, I am a Software Engineer at IQVIA, working on a dockerized Ruby + EmberJS/ReactJS stack.
+I studied web development at LaunchSchool.com, a marvelous community where mastery is the focus.
+Currently, I am a Software Engineer at IQVIA, working on a dockerized Ruby/React webapp used by clinics and hospitals to join drug trials.
 
 In my spare time I build Commander decks for the Magic: the Gathering card game.
 Of course, I have written a program to assist myself.
